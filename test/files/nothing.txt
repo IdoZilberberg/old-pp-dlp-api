@@ -1,0 +1,2 @@
+Hello this is a nice text file without any sensitive data so scanner should not detect anything here.
+
